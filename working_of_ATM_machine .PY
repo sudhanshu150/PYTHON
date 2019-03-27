@@ -24,9 +24,14 @@ class atm:
             print("None deposit made")
     
 
-o1=atm("Krampus",10000)
-print(o1.balance)
+o1=atm("Krampus",10000) #create object(o1) for class atm
+print("hello:",o1.name)
+print("total amount:",o1.balance)
 o1.withdraw()
 print(o1.balance)
 o1.desposit()
 print(o1.balance)
+
+
+   
+    
