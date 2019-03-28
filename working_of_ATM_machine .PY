@@ -31,7 +31,3 @@ o1.withdraw()
 print(o1.balance)
 o1.desposit()
 print(o1.balance)
-
-
-   
-    
